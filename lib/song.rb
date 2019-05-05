@@ -44,5 +44,5 @@ end
 
 def self.new_from_filename(name)
   song=self.new
-  song.name=name.split("-")
+  song.name=name.split("-").
 end
